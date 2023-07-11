@@ -17,7 +17,7 @@
 </div>
   
   ##
-  ![Liz GitHub stats](https://github-readme-stats.vercel.app/api?username=lizSimoes&show_icons=true&theme=transparent)
+  ![Liz GitHub stats](https://github-readme-stats.vercel.app/api?username=LizSimoes&show_icons=true&theme=transparent)
  
 <div> 
  
