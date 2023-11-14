@@ -2,7 +2,8 @@
 
 - 💡 Hoje trabalho como front-end
 - 📧 Contate-me no email: devliz.programadora@gmail.com
-- 🚀 Estou cursando na Rocketseat
+- 🖥️ Portfólio: https://portfolio-lizsimoes.netlify.app/
+- 🚀 Cursando na Rocketseat
 
 
 
