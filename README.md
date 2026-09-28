@@ -3,7 +3,6 @@
 - 💡 Hoje trabalho como front-end
 - 📧 Contate-me no email: devliz.programadora@gmail.com
 - 🖥️ Portfólio: https://portfolio-lizsimoes.vercel.app
-- 🚀 Cursando na Rocketseat
 
 
 
